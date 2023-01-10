@@ -3,7 +3,7 @@
 <h3 align="center">I'm Computer Science Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmulla1303&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmulla1303" /> </p>
+<p align="left"> <!-- <img src="https://komarev.com/ghpvc/?username=sahilmulla1303&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmulla1303" />--> </p>
 
 - 🔭 I’m currently working on **Parking Management System**
 
